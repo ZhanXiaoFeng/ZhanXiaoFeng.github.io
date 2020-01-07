@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/404.html</loc>
+    
+    <lastmod>2020-01-07T15:22:31.187Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/commonweal/index.html</loc>
     
-    <lastmod>2020-01-06T13:59:35.559Z</lastmod>
+    <lastmod>2020-01-07T15:19:56.198Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/schedule/index.html</loc>
+    
+    <lastmod>2020-01-07T14:07:18.746Z</lastmod>
     
   </url>
   
@@ -12,13 +26,6 @@
     <loc>http://yoursite.com/sitemap/index.html</loc>
     
     <lastmod>2020-01-06T13:59:04.104Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/schedule/index.html</loc>
-    
-    <lastmod>2020-01-06T13:58:48.526Z</lastmod>
     
   </url>
   
